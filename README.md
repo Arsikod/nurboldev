@@ -1,6 +1,6 @@
 ## Technical information about website
 
-- this website is built with reactjs-vite template
+- <img src='src/assets/svg/LogosReact.svg'> this website is built with reactjs-vite template
 
 ```js
 npm create vite@latest

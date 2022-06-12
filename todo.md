@@ -1,0 +1,5 @@
+- choose colors for background / text / buttons / popups in dark mode
+- choose colors for background / text / buttons / popups in light mode
+- add mode switcher TDD
+- add icons to mode switcher
+- choose font family for texts
